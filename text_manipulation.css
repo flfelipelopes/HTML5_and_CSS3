@@ -1,0 +1,35 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+/*
+	Estilo para o contéudo do site
+*/
+
+body{
+	background-color: black;
+}
+
+.artigo{
+	width: 1280px;
+	margin: 40px auto;
+	text-align: center;
+}
+
+.artigo > h1{
+	color: rgb(255, 99, 71);
+	font-size: 23px;
+	font-family: Arial;
+	font-variant: small-caps;
+}
+
+.artigo > p{
+	color: rgb(227,179,20);
+	font-family: Arial;
+	font-variant: small-caps;
+	font-size: 17px;
+	margin-top: 12px;
+	line-height: 30px;
+	text-align: left;
+}

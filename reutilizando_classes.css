@@ -1,0 +1,24 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+/*
+	Estilo para contéudo do site
+*/
+
+html, body{
+	height: 100%
+}
+
+.tipo1{
+	color: #786c5b;
+}
+
+.link_{
+	font-size: 30px;
+}
+
+.tipo2{
+	font-size: 40px;
+}

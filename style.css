@@ -1,0 +1,21 @@
+/*
+	Chamando estilo por id
+	Não pode existir ids iguais no mesmo documento. Nunca repetimos!!!
+*/
+
+#div1 h1{
+	color: purple
+}
+
+#div2 > h1{
+	color: orange
+
+/* 
+	Chamando estilo por classe
+	Pode ser repetido e não gera conflito no JS
+*/
+
+}
+.div3 h1{
+	color: yellow
+}

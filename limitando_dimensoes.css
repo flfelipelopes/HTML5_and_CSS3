@@ -1,0 +1,23 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+/*
+	Estilo para o conteúdo do nosso site
+*/
+
+html, body{
+	height: 100%
+}
+
+
+.article{
+	margin: 0 auto;
+	width: 1280px;
+	height: 200%;
+	max-height: 100%;
+	min-height: 50%;
+	background: red;
+}
+
